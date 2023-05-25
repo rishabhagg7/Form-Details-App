@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="go_to_another_activity">Go to Another Activity</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="click">Submit</string>
+    <string name="enter_age">Enter age</string>
+</resources>
